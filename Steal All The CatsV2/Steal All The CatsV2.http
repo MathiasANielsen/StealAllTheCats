@@ -1,0 +1,6 @@
+@Steal_All_The_CatsV2_HostAddress = http://localhost:5076
+
+GET {{Steal_All_The_CatsV2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
